@@ -1,4 +1,5 @@
 🎯 Hangman Game
+
 Welcome to the Hangman Game, a classic word-guessing game developed as part of the 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu.
 
 This project was created to reinforce fundamental Python concepts such as string manipulation, loops, conditionals, functions, and basic data structures.
