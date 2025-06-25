@@ -5,6 +5,7 @@ Welcome to the Hangman Game, a classic word-guessing game developed as part of t
 This project was created to reinforce fundamental Python concepts such as string manipulation, loops, conditionals, functions, and basic data structures.
 
 📌 Features
+
 🧠 Random word selection from a pre-defined list
 
 🔡 Letter-by-letter guessing
@@ -18,6 +19,7 @@ This project was created to reinforce fundamental Python concepts such as string
 🔁 Option to replay after each game
 
 🛠 Technologies Used
+
 Python 3
 
 ASCII Art for UI representation
@@ -26,6 +28,7 @@ Basic terminal I/O
 
 🚀 Getting Started
 Prerequisites
+
 Python 3 installed on your system
 Download Python
 
@@ -43,6 +46,7 @@ bash
 Copy
 Edit
 python hangman.py
+
 📚 What I Learned
 Writing clean, readable Python code
 
